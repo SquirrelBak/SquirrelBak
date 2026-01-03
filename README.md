@@ -1,6 +1,6 @@
-# SquirrelBak Sender & Receiver  
+# <img src="logo.png"> SquirrelBak Sender & Receiver  
 
-SquirrelBak  is a simple, secure, and silent one-way backup tool for Windows environments. It enables real-time folder synchronization from a source machine ("Sender") to an idle PC in another location ("Receiver")—with no cloud, no login, and no restore complexity.
+SquirrelBak is a simple, secure, and silent one-way backup tool for Windows environments. It enables real-time folder synchronization from a source machine ("Sender") to an idle PC in another location ("Receiver")—with no cloud, no login, and no restore complexity.
 
 Ideal for backing up logs, documents, OA data, or any continuously growing folder.
 
