@@ -31,7 +31,7 @@ Ideal for backing up logs, documents, OA data, or any continuously growing folde
 | [SquirrelBak_Sender_Setup_x64_v2.0.1.exe](https://www.squirrelbak.com/download/Professional/SquirrelBak_Sender_Setup_x64_v2.0.1.exe) | 32-bit |
 | [SquirrelBak_Sender_Setup_x86_v2.0.1.exe](https://www.squirrelbak.com/download/Professional/SquirrelBak_Sender_Setup_x86_v2.0.1.exe) | 64-bit |
 | [SquirrelBak_Receiver_Setup_x64_v2.0.1.exe](https://www.squirrelbak.com/download/Professional/SquirrelBak_Receiver_Setup_x64_v2.0.1.exe) | 32-bit |
-| [SquirrelBak_Receiver_Setup_x86_v2.0.1.exe](https://www.squirrelbak.com/download/Professional/SquirrelBak_Receiver_Setup_x64_v2.0.1.exe) | 64-bit |
+| [SquirrelBak_Receiver_Setup_x86_v2.0.1.exe](https://www.squirrelbak.com/download/Professional/SquirrelBak_Receiver_Setup_x86_v2.0.1.exe) | 64-bit |
 
 
 ## 🚀 Usage Guide
