@@ -28,10 +28,10 @@ Ideal for backing up logs, documents, OA data, or any continuously growing folde
 
 | File Name | Architecture |
 |----------|--------------|
-| SquirrelBak-Sender-32.exe | 32-bit |
-| SquirrelBak-Sender-64.exe | 64-bit |
-| SquirrelBak-Receiver-32.exe | 32-bit |
-| SquirrelBak-Receiver-64.exe | 64-bit |
+| SquirrelBak_Sender_Setup_x64_v2.0.1.exe(https://www.squirrelbak.com/download/Professional/SquirrelBak_Sender_Setup_x64_v2.0.1.exe) | 32-bit |
+| SquirrelBak_Sender_Setup_x86_v2.0.1.exe(https://www.squirrelbak.com/download/Professional/SquirrelBak_Sender_Setup_x86_v2.0.1.exe) | 64-bit |
+| SquirrelBak_Receiver_Setup_x64_v2.0.1.exe(https://www.squirrelbak.com/download/Professional/SquirrelBak_Receiver_Setup_x64_v2.0.1.exe) | 32-bit |
+| SquirrelBak_Receiver_Setup_x86_v2.0.1.exe(https://www.squirrelbak.com/download/Professional/SquirrelBak_Receiver_Setup_x64_v2.0.1.exe) | 64-bit |
 
 
 ## 🚀 Usage Guide
@@ -54,7 +54,7 @@ Ideal for backing up logs, documents, OA data, or any continuously growing folde
 
 
 ## 📌 Notes
-- **Version Matching**:  Sender and Receiver **must be the same version** (both v1.0.0) for compatibility
+- **Version Matching**:  Sender and Receiver **must be the same version** (both v2.0.1) for compatibility
 - **Firewall**:  It is recommended to allow SquirrelBak through your firewall or antivirus software.  
 - The Receiver **only receives data**—it never initiates connections or exposes files back to the network.
 - Backups are **one-way only**: changes on the Receiver side are **not synced back** to the Sender.
