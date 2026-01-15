@@ -1,4 +1,11 @@
 # <img src="logo.png" width=40> SquirrelBak Sender & Receiver  
+<p align="center">
+    <img height="260" alt="Sender" src="https://github.com/user-attachments/assets/e88e7b41-4670-48f3-abb7-97cbc1bda619" style="margin-right:10px;"
+        />
+    <img height="260" alt="Receiver" src="https://github.com/user-attachments/assets/b185f0b7-e647-4a34-a50d-da637241e4b3" />
+    
+</p>
+<p align="center"><sub>Sender (left) continuously syncs data to Receiver (right). </sub></p>
 
 SquirrelBak is a simple, secure, and silent one-way backup tool for Windows environments. It enables real-time folder synchronization from a source machine ("Sender") to an idle PC in another location ("Receiver")—with no cloud, no login, and no restore complexity.
 
