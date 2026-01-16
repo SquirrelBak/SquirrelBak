@@ -1,8 +1,8 @@
 # <img src="logo.png" width=40> SquirrelBak Sender & Receiver  
 <p align="center">
-    <img height="260" alt="Sender" src="https://github.com/user-attachments/assets/e88e7b41-4670-48f3-abb7-97cbc1bda619" style="margin-right:10px;"
+    <img height="260" alt="Sender" src="https://github.com/user-attachments/assets/cc925636-8130-4777-99b3-b1f6b0a41e06" style="margin-right:10px;"
         />
-    <img height="260" alt="Receiver" src="https://github.com/user-attachments/assets/b185f0b7-e647-4a34-a50d-da637241e4b3" />
+    <img height="260" alt="Receiver" src="https://github.com/user-attachments/assets/93dfb38a-c9f4-45af-854c-cc9700e3e38c" />
     
 </p>
 <p align="center"><sub>Sender (left) continuously syncs data to Receiver (right). </sub></p>
@@ -35,10 +35,10 @@ Ideal for backing up logs, documents, OA data, or any continuously growing folde
 
 | File Name | Architecture |
 |----------|--------------|
-| [SquirrelBak_Sender_Setup_x64_v2.0.1.exe](https://www.squirrelbak.com/download.html) | 64-bit |
-| [SquirrelBak_Sender_Setup_x86_v2.0.1.exe](https://www.squirrelbak.com/download.html) | 32-bit |
-| [SquirrelBak_Receiver_Setup_x64_v2.0.1.exe](https://www.squirrelbak.com/download.html) | 64-bit |
-| [SquirrelBak_Receiver_Setup_x86_v2.0.1.exe](https://www.squirrelbak.com/download.html) | 32-bit |
+| [SquirrelBak_Sender_Setup_x64_v2.0.3.exe](https://www.squirrelbak.com/download.html) | 64-bit |
+| [SquirrelBak_Sender_Setup_x86_v2.0.3.exe](https://www.squirrelbak.com/download.html) | 32-bit |
+| [SquirrelBak_Receiver_Setup_x64_v2.0.3.exe](https://www.squirrelbak.com/download.html) | 64-bit |
+| [SquirrelBak_Receiver_Setup_x86_v2.0.3.exe](https://www.squirrelbak.com/download.html) | 32-bit |
 
 
 ## 🚀 Usage Guide
@@ -61,7 +61,7 @@ Ideal for backing up logs, documents, OA data, or any continuously growing folde
 
 
 ## 📌 Notes
-- **Version Matching**:  Sender and Receiver **must be the same version** (both v2.0.1) for compatibility
+- **Version Matching**:  Sender and Receiver **must be the same version** (both v2.0.3) for compatibility
 - **Firewall**:  It is recommended to allow SquirrelBak through your firewall or antivirus software.  
 - The Receiver **only receives data**—it never initiates connections or exposes files back to the network.
 - Backups are **one-way only**: changes on the Receiver side are **not synced back** to the Sender.
